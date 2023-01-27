@@ -5,10 +5,10 @@ A new Flutter project.
 Midas Clone UI
 
 <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
-![Screenshot_20230128-000729](https://user-images.githubusercontent.com/75272701/215201272-3cb190e0-1ead-4b59-a1a2-ba0c1ab9061c.jpg)
-![Screenshot_20230128-000729](https://user-images.githubusercontent.com/75272701/215201282-6a907c53-9d57-4783-85c8-21999ae0df42.jpg)
-![Screenshot_20230128-000743](https://user-images.githubusercontent.com/75272701/215201290-de20ccc2-c2fb-4ad3-8b8e-9342248e5f2a.jpg) 
-![Screenshot_20230128-000721](https://user-images.githubusercontent.com/75272701/215201302-398824e2-9a48-4be3-ae4d-4a8a169a59bc.jpg)
+<img src="https://user-images.githubusercontent.com/75272701/215201272-3cb190e0-1ead-4b59-a1a2-ba0c1ab9061c.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/75272701/215201282-6a907c53-9d57-4783-85c8-21999ae0df42.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/75272701/215201290-de20ccc2-c2fb-4ad3-8b8e-9342248e5f2a.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/75272701/215201302-398824e2-9a48-4be3-ae4d-4a8a169a59bc.jpg" width="150" height="280">
 
 
 ## Getting Started
