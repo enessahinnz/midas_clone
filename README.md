@@ -1,4 +1,4 @@
-# midas_clone
+# midasCloneUI
 
 A new Flutter project.
 
